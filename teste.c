@@ -7,5 +7,7 @@ int main(){
     scanf("%i",&a);
     a-=1;
     printf("%d\n",a);
+    a++;
+    printf("Sua idade original:%d/n",idade);
     return 0;
 }
